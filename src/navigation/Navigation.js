@@ -32,7 +32,7 @@ export default function Navigation() {
         }}
       />
       <Tab.Screen
-        name="Favorites"
+        name="Fav"
         component={FavoritesNavigation}
         options={{
           tabBarLabel: "Favoritos",
